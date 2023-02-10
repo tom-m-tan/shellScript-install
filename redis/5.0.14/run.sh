@@ -1,6 +1,6 @@
 #!/bin/bash
 # author: ming.tan
-# date: 2023.2.2
+# date: 2022.2.10
 BootStart="/lib/systemd/system"
 RunUser="sie-redis"
 RunGroup="sie-serivces"

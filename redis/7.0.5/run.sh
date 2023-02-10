@@ -1,6 +1,6 @@
 #!/bin/bash
-#Redis部署
-#默认参数
+# author: ming.tan
+# date: 2022.2.10
 BootStart="/lib/systemd/system"
 RunUser="sie-redis"
 RunGroup="sie-serivces"

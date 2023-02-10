@@ -1,6 +1,6 @@
 #!/bin/bash
 # author: ming.tan
-# date: 2023.2.2
+# date: 2022.2.10
 params=$*
 urldown="http://package.sieiot.com/jdk/jdk1.8.0_191.tar.gz"
 EvnPath="/etc/profile.d"
